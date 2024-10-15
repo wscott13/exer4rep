@@ -1,0 +1,7 @@
+def hello():
+    print("hello")
+
+git add script.py
+git commit -m "Add goodbye function"
+git push origin main
+
